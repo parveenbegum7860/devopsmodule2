@@ -11,3 +11,8 @@ This repository contains DevOps Module 1 practical programs and exercises.
 - Git
 - GitHub
 - C Programming
+
+## Additional Information
+
+This repository demonstrates Git and GitHub operations including cloning, staging,
+committing, pushing, pulling, and merge conflict resolution.
