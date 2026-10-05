@@ -1,11 +1,11 @@
-# DevOps Module 1
+# DevOps Module 2
 
 ## Student Details
-- Name: Lakshmi Prasanna
-- Repository: devopsModule1
+- Name: Parveen Begum
+- Repository: devopsModule2
 
 ## Description
-This repository contains DevOps Module 1 practical programs and exercises.
+This repository contains DevOps Module 2 practical programs and exercises.
 
 ## Technologies Used
 - Git
